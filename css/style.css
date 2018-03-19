@@ -717,6 +717,18 @@ form label {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
+.penis {
+  width: 90px;
+  height: 90px;
+  background: #efefef;
+  display: table;
+  text-align: center;
+  margin-bottom: 30px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+}
 @media screen and (max-width: 992px) {
   .col-nineth .col-third .icon {
     margin: 0 auto 30px auto;
